@@ -14,6 +14,7 @@ I'm a passionate developer and student exploring the realms of software developm
 - Tools: pwntools, Socket Programming, Ida pro, Ghidra, GNU Debugger (gdb)
 - Areas of Expertise:
   - Binary Exploitation, Forensics, Crypto, Reverse Engineering CTFs
+  - Low Level Programming
   - Machine Learning, Data Preprocessing
   - Artificial Intelligence
   - Web Development
