@@ -23,7 +23,7 @@ I'm a passionate developer and student exploring the realms of software developm
 - Executive member of technical team in Microsoft Learn Student Ambassador (MLSA) 🏆
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-jilani-1a0a422a7/)
 - [Email](muhammadjilani192@proton.me)
 
 ⚡ Fun fact: I love solving binary puzzles and exploring cybersecurity challenges in my spare time.
