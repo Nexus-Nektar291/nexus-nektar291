@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Muhammad Jilani!
+I'm a passionate developer and student exploring the realms of software development, cybersecurity, and machine learning.
 
-<!--
-**Nexus-Nektar291/nexus-nektar291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: 
+  - Exploit development for CTF challenges 🐱‍💻
+  - A Learning Management System (LMS) project 📚
+- 🌱 I’m currently learning:
+  - Advanced binary exploitation
+  - Data preprocessing for ML models
 
-Here are some ideas to get you started:
+## ⚙️ My Tech Stack
+- Languages: C++, Python, Bash
+- Tools: pwntools, Turtle, Socket Programming
+- Areas of Expertise:
+  - Binary Exploitation, Forensics, Web CTFs
+  - Machine Learning, Data Preprocessing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Achievements
+- Participating in Nexus-Nektar:Forensics challenge 🕵️‍♂️
+- Microsoft Learn Student Ambassador (MLSA) Event Director 🏆
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](mailto:your-email@example.com)
+
+⚡ Fun fact: I love solving binary puzzles and exploring cybersecurity challenges in my spare time.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus-Nektar291&show_icons=true&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nexus-Nektar291&theme=monokai)
