@@ -7,15 +7,16 @@ I'm a passionate developer and student exploring the realms of software developm
 - 🌱 I’m currently learning:
   - Advanced binary exploitation
   - Data preprocessing for ML models
-  - Basics to advance Web & App development
+  - Basics to advance Web development
 
 ## ⚙️ My Tech Stack
 - Languages: C, C++, C#, Python, Assembly
-- Tools: pwntools, Socket Programming, Ida pro, Ghidra, GNU debugger(gdb)
+- Tools: pwntools, Socket Programming, Ida pro, Ghidra, GNU Debugger (gdb)
 - Areas of Expertise:
   - Binary Exploitation, Forensics, Crypto, Reverse Engineering CTFs
   - Machine Learning, Data Preprocessing
   - Artificial Intelligence
+  - Web Development
 
 ## 🚀 Achievements
 - Participating in Nexus-Nektar:Forensics challenge 🕵️‍♂️
