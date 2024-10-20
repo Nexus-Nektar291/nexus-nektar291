@@ -27,8 +27,3 @@ I'm a passionate developer and student exploring the realms of software developm
 - [Email](muhammadjilani192@proton.me)
 
 ⚡ Fun fact: I love solving binary puzzles and exploring cybersecurity challenges in my spare time.
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus-Nektar291&show_icons=true&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nexus-Nektar291&theme=monokai)
