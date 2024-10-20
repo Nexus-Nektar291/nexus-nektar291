@@ -20,8 +20,8 @@ I'm a passionate developer and student exploring the realms of software developm
   - Web Development
 
 ## 🚀 Achievements
-- Participating in Nexus-Nektar:Forensics challenge 🕵️‍♂️
-- Technical Team Lead at Google Developer Groups on Campus (GDGoc) UET Lahore
+- Participating in weekly CTF Competitions at CTFtime and Hack The Box (HTB) 🕵️‍♂️
+- Technical Team Lead at Google Developer Groups on Campus (GDGoc) UET Lahore 🏆
 - Executive member of technical team in Microsoft Learn Student Ambassador (MLSA) 🏆
 
 ## 📫 How to reach me:
